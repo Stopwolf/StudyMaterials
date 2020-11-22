@@ -12,16 +12,15 @@ Also, each item will have tags representing the type and general field of knowle
 # Sticker Meaning
 :arrows_clockwise: - in progress<br>
 :heavy_check_mark: - done<br>
-:x: - started, then dropped<br>
 
 # Free Materials
-- Fast.ai #Course #NLP #CompVision #DeepLearning :x: <br>
+- Fast.ai #Course #NLP #CompVision #DeepLearning<br>
   https://course.fast.ai/<br><br>
-- Speech and Language Processing #NLP #Book :x: <br>
+- Speech and Language Processing #NLP #Book<br>
   https://web.stanford.edu/~jurafsky/slp3/<br><br>
 - CSEP 517: Natural Language Processing #NLP #Course<br>
   https://courses.cs.washington.edu/courses/csep517/17sp<br><br>
-- Stanford CS224N: NLP with Deep Learning #NLP #Course :x: <br>
+- Stanford CS224N: NLP with Deep Learning #NLP #Course <br>
   https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z<br><br>
 - PyTorch Official Tutorials #Library #Articles<br>
   https://pytorch.org/tutorials/<br><br>
@@ -32,20 +31,20 @@ Also, each item will have tags representing the type and general field of knowle
     https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning
   - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization :heavy_check_mark:<br>
     https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning
-  - Convolutional Neural Networks :x: <br>
+  - Convolutional Neural Networks <br>
     https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning
-  - Sequence Models<br>
+  - Sequence Models :heavy_check_mark: <br>
     https://www.coursera.org/learn/nlp-sequence-models<br><br>
 - SpaCy Official Documentation #Library #NLP #Articles<br>
   https://spacy.io/usage/spacy-101<br><br>
 - HuggingFace Documentation #Library #NLP #Articles<br>
   https://huggingface.co/transformers/quickstart.html<br><br>
-- Rosalind Challenges #Bioinformatics #CodingChallenges :arrows_clockwise: <br>
+- Rosalind Challenges #Bioinformatics #CodingChallenges <br>
   http://rosalind.info/problems/locations/
 
 
 # Not Free Materials
-- Bioinformatics Algorithms: An Active Learning Approach #Bioinformatics #Book :arrows_clockwise: 
+- Bioinformatics Algorithms: An Active Learning Approach #Bioinformatics #Book <br>
 
 # Note
 I'm fully aware that some of the items in this list aren't fully free (like Coursera Specializations). However, they can still be audited for free. That means no certificate at the end, but I still get the necessary knowledge.
